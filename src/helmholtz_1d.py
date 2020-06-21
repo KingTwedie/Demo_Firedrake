@@ -196,7 +196,7 @@ class Helmholtz:
         
             
 if __name__ == '__main__':
-        n_cycles = 5
+        n_cycles = 6
     
         problem = Helmholtz(n_cycles)
         problem.run()
